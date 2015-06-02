@@ -1,0 +1,1 @@
+Il existe une gestion de cas particulier lorsque les pages d'un ensemble de pages sont le résultat ou une partie d'un processus (un processus de paiement ou de prise de commande, par exemple) Dans ces situations, le critère est non applicable.

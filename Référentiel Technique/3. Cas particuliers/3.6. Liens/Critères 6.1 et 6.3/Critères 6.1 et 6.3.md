@@ -1,0 +1,1 @@
+Il existe une gestion de cas particulier lorsque le lien est [ambigu pour tout le monde](#ambigu-pour-tout-le-monde). Dans cette situation, où il n'est pas possible de rendre le lien explicite dans son contexte, le critère est non applicable.

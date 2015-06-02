@@ -1,0 +1,3 @@
+Deux liens sont dits identiques quand le lien x (intitulé du lien seul, contenu de l'attribut `title` ou contexte du lien) est égal au lien y. Cette définition s'applique à tous les types de liens : lien texte, lien image (les liens ont alors la même image) et lien composite.
+
+**Attention** : des liens avec des intitulés identiques mais des titres de liens différents ou des contextes de liens différents ne sont pas identiques (exemple : `<a href="lien_bar.html" title="cliquer ici pour télécharger la barre d'outils">`cliquer ici`</a>` et `<a href="lien_doc.html" title="cliquer ici pour télécharger le document">`cliquer ici`</a>`).

@@ -1,0 +1,1 @@
+Région d'une image réactive à laquelle aucune action n'est associée (pour une zone cliquable côté client : balise `area` avec l'attribut `nohref`). Les balises `area` sont contenues dans la balise `map`.

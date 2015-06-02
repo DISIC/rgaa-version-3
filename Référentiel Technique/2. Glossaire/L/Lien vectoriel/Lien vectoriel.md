@@ -1,0 +1,1 @@
+Lien dont le contenu entre `<a href="...">` et `</a>` est uniquement constitué d'une image vectorielle (balise `svg`). L'intitulé de lien pour un lien vectoriel est le contenu de l'alternative textuelle de l'image vectorielle.

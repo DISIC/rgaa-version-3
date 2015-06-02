@@ -1,0 +1,1 @@
+Il existe une gestion de cas particulier lorsque : le média temporel ou non temporel est utilisé à des fins décoratives (i.e il n'apporte aucune information). Dans ces situations, le critère est non applicable.

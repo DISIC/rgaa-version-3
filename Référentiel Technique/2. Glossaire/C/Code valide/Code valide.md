@@ -1,0 +1,5 @@
+*   Cas d'une page HTML : code dans lequel l'implémentation des balises et des attributs respecte les spécifications du type de document déclaré.
+    *   **Note 1** : Sauf indication contraire, les attributs non répertoriés par les spécifications sont non applicables.
+    *   **Note 2** : Sauf indication contraire, les balises non répertoriées par les spécifications sont non applicables.
+    *   **Note 3** : La [règle C3 de la spécification XHTML ("Minimisation d'élément et contenu d'élément vide", en anglais)](http://www.w3.org/TR/xhtml1/#C_3) stipule que l'utilisation d'éléments minimisés (`<elm />`) pour des éléments vides (par exemple `<p />` à la place de `<p></p>`) est déconseillée. Cette pratique constitue une non-conformité dans le cadre de RGAA.
+*   Cas d'une page implémentant WAI-ARIA : code dans lequel l'implémentation des balises et des attributs respecte les spécifications du type de document déclaré et dans lequel l'implémentation WAI ARIA est conforme à la spécification WAI-ARIA.
