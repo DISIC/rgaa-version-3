@@ -1,5 +1,5 @@
 # Licence
-Ces documents sont des documents de l'État français placés sous licence ouverte 1.0 ou ultérieure. Vous trouverez des précisions sur cette licence sur le [wiki de data.gouv](http://wiki.data.gouv.fr/wiki/Licence_Ouverte_/_Open_Licence).
+Ces documents sont des documents de l'État français placés sous licence ouverte 1.0 ou ultérieure. Vous trouverez des précisions sur cette licence sur le [blog de la mission etalab](https://wiki de data.gouv.etalab.gouv.fr/licence-ouverte-open-licence).
 
 Vous êtes libres de :
 * Reproduire, copier, publier et transmettre ces informations ;
