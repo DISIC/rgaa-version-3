@@ -1,1 +1,0 @@
-Il existe une gestion de cas particulier lorsque l'alerte non sollicitée concerne un cas d'urgence, un événement ou une situation soudaine et imprévue qui exige une action immédiate afin de préserver la santé, la sécurité ou la propriété. Dans ces situations, le critère est non applicable.

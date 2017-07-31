@@ -1,9 +1,6 @@
-# rgaa_referentiel
-## Version 3.0 du référentiel général d'accessibilité pour les administrations
+# Ancien dépôt du RGAA 3.0
 
-Ce dépôt comporte l'ensembe des documents constituant la version 3.0 du RGAA :
-* Introduction au RGAA
-* Guide d'accompagnement
-* Référentiel technique
+Retrouver le nouveau dépôt à cette adresse : https://github.com/DISIC/rgaa_referentiel
 
-Ces documents sont rédigés en Markdown. Vous trouverez sur ce [lien wikipedia](https://fr.wikipedia.org/wiki/Markdown) des précisions sur ce langage.
+La version du RGAA 3.0 est archivée ici : https://github.com/DISIC/rgaa_referentiel/releases/tag/RGAA3-0
+

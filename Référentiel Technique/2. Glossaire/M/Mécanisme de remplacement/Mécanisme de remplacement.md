@@ -1,1 +1,0 @@
-Mécanisme généralement basé sur CSS, permettant à l'utilisateur de remplacer du texte par du texte en image et inversement sur le principe du <span lang="en">style switcher</span>. Le mécanisme peut utiliser un langage de script côté serveur ou un langage de script côté client.

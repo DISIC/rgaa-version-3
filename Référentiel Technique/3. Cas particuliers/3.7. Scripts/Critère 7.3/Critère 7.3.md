@@ -1,1 +1,0 @@
-Il existe une gestion de cas particulier lorsque la fonctionnalité dépend de l'utilisation d'un gestionnaire d'événement sans équivalent universel, par exemple, une application de dessins à main levée ne pourra pas être rendue contrôlable au clavier. Dans ces situations, le critère est non applicable.

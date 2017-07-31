@@ -1,1 +1,0 @@
-Il existe une gestion de cas particulier lorsque le document est produit de manière dynamique (par exemple une facture). Dans cette situation, l'indication de poids est facultative, les autres indications (type de fichier et langue) restent exigibles.

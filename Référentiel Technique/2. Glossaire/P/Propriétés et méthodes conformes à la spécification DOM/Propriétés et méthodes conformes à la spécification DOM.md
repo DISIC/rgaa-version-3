@@ -1,1 +1,0 @@
-Les méthodes d'insertion de contenu conformes à la spécification DOM font appel aux propriétés et méthodes de l'objet Node par opposition aux méthodes propriétaires. Par exemple `document.write`, spécifique à la plateforme IE/Microsoft pour les navigateurs IE anciens.

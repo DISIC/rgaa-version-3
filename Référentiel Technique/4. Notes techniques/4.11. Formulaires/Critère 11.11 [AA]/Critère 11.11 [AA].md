@@ -1,4 +1,0 @@
-Certains types de formulaire HTML5 proposent des messages d'aide à la saisie automatique, par exemple les types `url` et `email` affichent un message du type "veuillez saisir une adresse email valide" dans le cas où l'adresse email saisie ne correspond pas au format attendu. Ces messages sont personnalisables via l'API <span lang="en">Constraint Validation</span> qui peut permettre de personnaliser les messages d'erreur et valider le critère, attention cependant le support de cette API n'est pas encore stabilisé. Le type `pattern` qui permet d'effectuer automatiquement des contrôle de format (via des expressions régulières) affiche également un message d'aide mais ce dernier est personnalisable via l'attribut `title`, ce dispositif valide le critère.
-
-Référence : [WHATWG - 4.10.21.3 The constraint validation API](http://www.whatwg.org/specs/web-apps/current-work/#constraint-validation)
-

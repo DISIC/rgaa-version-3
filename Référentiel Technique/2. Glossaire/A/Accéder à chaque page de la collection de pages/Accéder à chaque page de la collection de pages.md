@@ -1,1 +1,0 @@
-Dans le cas où la collection de pages comporte un grand nombre de pages, il est habituel de présenter ces liens d'accès aux pages par groupes de liens, par séquences de 10 liens, par exemple. Cette pratique valide le test.

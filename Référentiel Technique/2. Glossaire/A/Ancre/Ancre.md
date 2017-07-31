@@ -1,1 +1,0 @@
-En HTML, une ancre (appelée aussi signet) est constituée d'une balise <a> avec l'attribut `id` et dépourvue de `href`, <a id="contenu"></a> par exemple. Une ancre sert de cible à un lien de la forme <a href="#id">Intitulé</a> : <a href="#contenu">Contenu</a> par exemple.

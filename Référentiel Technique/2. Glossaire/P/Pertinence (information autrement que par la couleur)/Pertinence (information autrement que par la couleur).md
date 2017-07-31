@@ -1,3 +1,0 @@
-Le moyen pour récupérer une information autrement que par la couleur doit être accessible à tous. Par exemple, dans le cas d'une liste d'articles dont les articles en jaune sont en promotion, l'utilisation de texte caché via CSS est un moyen de récupérer l'information "en promotion", mais il n'est pas pertinent car cette information restera cachée à l'utilisateur qui visualise la page CSS activée.
-
-**Note** : l'utilisation d'une balise d'emphase (`strong` ou `em`) comme autre moyen pour récupérer une information donnée par la couleur permet de valider le critère même si ces éléments ne sont généralement pas supportés par les technologies d'assistance, particulièrement les lecteurs d'écrans.

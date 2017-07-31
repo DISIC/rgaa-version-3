@@ -1,3 +1,0 @@
-Adresse permettant d'accéder aux ressources du <span lang="en">World Wide Web</span> : document HTML, pages web, image, son...
-
-**Note** : dans le référentiel RGAA, la notion d'url est utilisée à la place de uri (chaîne de caractères compacte identifiant une ressource).
